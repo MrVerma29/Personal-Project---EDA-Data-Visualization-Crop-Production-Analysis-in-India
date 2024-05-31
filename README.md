@@ -3,33 +3,41 @@
 Problem Statement: 
 The Agriculture business domain, as a vital part of the overall supply chain, is expected to highly evolve in the upcoming years via the developments, which are taking place on the side of the Future Internet. This paper presents a novel Business-to-Business collaboration platform from the agri-food sector perspective, which aims to facilitate the collaboration of numerous stakeholders belonging to associated business domains, in an effective and flexible manner. This dataset provides a huge amount of information on crop production in India ranging from several years. Based on the Information the ultimate goal would be to predict crop production and find important insights highlighting key indicators and metrics that influence crop production.
 
-Expected Outcomes :- 
-1.	Improved Understanding: 
+**Expected Outcomes :-** 
+1.	**Improved Understanding:** 
 Gain deeper insights into the factors influencing crop production in India, including regional variations, seasonal patterns, and agronomic practices.
-2.	Predictive Modeling: 
+2.	**Predictive Modeling:** 
 Develop predictive models to forecast crop production based on key indicators and metrics identified through data analysis.
-3.	Decision Support: 
+3.	**Decision Support:** 
 Provide decision-makers with actionable insights and evidence-based recommendations for policy formulation, resource allocation, and agricultural planning.
-4.	Stakeholder Collaboration: 
+4.	**Stakeholder Collaboration:** 
 Facilitate collaboration among stakeholders in the agricultural sector, including government agencies, farmers, researchers, and industry players, to promote knowledge sharing and innovation.
 
 
-Targeted Variables :- 
+**Targeted Variables :-** 
 
-1.	Crop Production: 
+1.	**Crop Production:** 
 The primary outcome variable representing the total quantity of crops harvested within a specified area and time frame.
-2.	Crop Area: 
+2.	**Crop Area:** 
 The land area under cultivation for various crops, which directly influences production levels and agricultural output.
-3.	Crop Yield: 
+3.	**Crop Yield:** 
 The productivity of crops per unit area, calculated as the ratio of production to the cultivated area, indicating the efficiency of agricultural practices and crop management.
-4.	State and District: 
+4.	**State and District:** 
 Geographic units used for disaggregated analysis to identify regional disparities, hotspots of production, and areas for targeted intervention.
-5.	Season: 
+5.	**Season:** 
 The time of year when crops are planted, grown, and harvested, influencing production levels and agricultural activities.
-6.	Crop Type: 
+6.	**Crop Type:** 
 The specific crops cultivated, providing insights into market demand, crop diversification opportunities, and agricultural sustainability.
 
-
+# Metadata
+1. **Crop_Year:** Year in which the crop data was recorded.
+2. **Area:** Area of land (in hectares) used for cultivating the crop.
+3. **Production:** Total production (in tonnes) of the crop.
+4. **Yield:** Production per unit area (tonnes per hectare).
+5. **State_Name:** Name of the state where the crops are grown.
+6. **District_Name:** Name of the district within the state where the crops are grown.
+7. **Season:** Season during which the crop is grown (e.g., Kharif, Rabi, Summer).
+8. **Crop:** Name of the crop grown.
 
 # Overall Summary :
 1. The dataset provides comprehensive information on crop production in India, encompassing various years, states, districts, crops, and seasons.
