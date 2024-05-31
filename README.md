@@ -68,32 +68,32 @@ The specific crops cultivated, providing insights into market demand, crop diver
 7.2	Evidence-based decision-making, informed by data-driven insights, can lead to more effective interventions, sustainable practices, and inclusive growth in the agricultural sector.
 
 # Key Metrics:
-1	Crop Production: 
+1.	Crop Production: 
 Total production of crops across different regions and seasons.
-2	Crop Area: 
+2.	Crop Area: 
 Total land area under cultivation for various crops.
-3	Crop Yield: 
+3.	Crop Yield: 
 Production per unit area, indicating crop productivity.
-4	Regional Production: 
+4.	Regional Production: 
 Production levels in top and bottom states, districts, and regions.
-5	Seasonal Production: 
+5.	Seasonal Production: 
 Production variations across different seasons.
 
 # Factors Affecting Key Metrics:
-1	Climatic Conditions: Monsoon rainfall, temperature, and humidity influence crop growth and yield.
-2	Soil Quality: Soil fertility, composition, and moisture content impact crop productivity.
-3	Agricultural Practices: Farming techniques, irrigation methods, and use of fertilizers affect crop production.
-4	Land Availability: Arable land availability and land-use practices determine the extent of cultivation.
-5	Crop Selection: Choice of crops based on suitability to local conditions and market demand.
+1.	Climatic Conditions: Monsoon rainfall, temperature, and humidity influence crop growth and yield.
+2.	Soil Quality: Soil fertility, composition, and moisture content impact crop productivity.
+3.	Agricultural Practices: Farming techniques, irrigation methods, and use of fertilizers affect crop production.
+4.	Land Availability: Arable land availability and land-use practices determine the extent of cultivation.
+5.	Crop Selection: Choice of crops based on suitability to local conditions and market demand.
 
 # Strategies to Be Used:
-1	Enhance Agricultural Infrastructure: 
+1.	Enhance Agricultural Infrastructure: 
 Invest in irrigation systems, storage facilities, and transportation networks to support farming activities.
-2	Promote Sustainable Practices: 
+2.	Promote Sustainable Practices: 
 Encourage adoption of organic farming, water conservation techniques, and eco-friendly pest management methods.
-3	Crop Diversification: 
+3.	Crop Diversification: 
 Introduce high-value crops, specialty crops, and cash crops to diversify agricultural production and minimize risks.
-4	Technology Adoption: 
+4.	Technology Adoption: 
 Harness advancements in agricultural technology, such as precision farming, remote sensing, and IoT-enabled solutions, to optimize resource utilization and improve productivity.
-5	Capacity Building:
+5.	Capacity Building:
 Provide training, education, and financial support to farmers for skill development, access to markets, and adoption of best practices.
